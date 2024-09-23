@@ -1,5 +1,5 @@
 
---Create a Sample Sales Database
+--Create a SalesNRevenue Database
 
 CREATE DATABASE SalesNRevenue;
 
